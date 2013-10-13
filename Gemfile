@@ -33,7 +33,9 @@ group :development, :test do
   gem 'sqlite3'
   gem "minitest-rails-capybara"
   gem "minitest-focus"
-  gem 'launchy'
+  gem "minitest-colorize"
+  gem "capybara-webkit"
+  gem "launchy"
 end
 
 group :test do
