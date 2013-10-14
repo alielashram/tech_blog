@@ -42,9 +42,6 @@ group :test do
   gem "turn"
 end
 
-gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
